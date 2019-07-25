@@ -33,7 +33,9 @@ Go to ‘http://localhost:8888/my-recently-played' in your browser. This should 
 The idea is like this: 
 
 == Website fetch data from your app <<
+
 << App fetch data from Spotify <<
+
 << Spotify API data
  
 So you need to create free Heroku Node application to push your app there and have it on something like https://my-spotify-track.herokuapp.com/
