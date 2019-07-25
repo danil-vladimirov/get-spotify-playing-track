@@ -2,7 +2,7 @@
 
 This app fetch user’s (you) last played track using Spotify Web API and post a JSON data of this track for future fetching. This template is intended to be deployed on Heroku (or equals) because you never want to share client_id/client_secret or tokens to public.
 
-It uses user-read-recently-played scope instead of user-read-currently-playing, this way our app will always fetch last played track even is user is not listening something right now. You can change it if you want, just edit header field of app fetch.
+It uses user-read-recently-played scope instead of user-read-currently-playing, this way our app will always fetch last played track even if user is not listening something right now. You can change it if you want, just edit header field of app fetch.
 
 This app runs on Node.js and npm
 
