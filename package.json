@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "get-spotify-playing-track",
+  "version": "0.0.1",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "node-fetch": "^2.3.0",
+    "request": "^2.88.0"
+  }
+}
